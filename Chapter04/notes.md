@@ -9,3 +9,9 @@
 - multiline string: A string enclosed in triple quotes that can span more than one line  of a program.
 - precondition: A requirement that should be satisfied by the caller before a function  starts.
 - postcondition: A requirement that should be satisfied by the function before it ends.
+
+---
+
+Reference for the last exercise:
+
+![image](./geometry.jpg)
