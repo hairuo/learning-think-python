@@ -1,0 +1,17 @@
+## Glossary
+- recursion: The process of calling the function that is currently executing. 
+- modulus operator: An operator, %, that works on integers and returns the remainder  when one number is divided by another.
+- boolean expression: An expression whose value is either True or False. 
+- relational operator: One of the operators that compares its operands: ==, !=, >, <, >=,  and <=.  
+- logical operator: One of the operators that combines boolean expressions, including  and, or, and not.  
+- conditional statement: A statement that controls the flow of execution, depending  on some condition.  
+- block: One or more statements indented to indicate they are part of another  statement.  
+- condition: The boolean expression in a conditional statement that determines which  branch runs. 
+- branch: One of the alternative sequences of statements in a conditional statement. 
+- chained conditional: A conditional statement with a series of alternative branches.  
+- nested conditional: A conditional statement that appears in one of the branches of  another conditional statement. 
+- recursive: A function that calls itself.  
+- base case: A conditional branch in a recursive function that does not make a recursive call.  
+- infinite recursion: A recursion that doesn’t have a base case, or never reaches it.  
+- Eventually, an infinite recursion causes a runtime error. 
+- newline: A character that creates a line break between two parts of a string.
